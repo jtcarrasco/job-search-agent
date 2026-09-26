@@ -2,3 +2,6 @@
 knowledge/
 logs/
 *.log
+
+# Claude Code project config: local only, never published
+.claude/
